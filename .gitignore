@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données & artefacts
+data/
+artifacts/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
