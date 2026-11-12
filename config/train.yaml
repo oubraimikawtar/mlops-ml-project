@@ -11,5 +11,6 @@ model:
   name: "logistic_regression"
 
   max_iter: 3000
+  C: 10
 
 artifacts_dir: "artifacts"
